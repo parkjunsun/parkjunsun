@@ -44,4 +44,4 @@
 
 <br><br><br>
 <div align=center><h3>🎖 Algorithm 🎖</h3></div>
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwnstns52">
+<div align=center><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwnstns52"></div>
