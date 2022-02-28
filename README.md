@@ -1,24 +1,48 @@
-## 🚀 Park Joon Soon - Backend engineer
-
-***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjunsun&show_icons=true&theme=radical)
-
-*** 
-
-## ⚒ Main Stack
-<img src="https://user-images.githubusercontent.com/50009692/128605198-d103ec12-25a7-4622-845e-d34d355a5ecd.PNG" height="100">　　<img src="https://user-images.githubusercontent.com/50009692/128605205-88c29c1a-999f-47fb-9bac-7045c22be1c9.PNG" height="100"> 
-
-<img src="https://user-images.githubusercontent.com/50009692/128605215-30126430-b77a-4ce2-bafa-e720b0786dcf.PNG">　　 <img src="https://user-images.githubusercontent.com/50009692/128605212-b53fc4ae-0c88-4c0d-ba2b-9ef4c7204749.PNG">
-
-<img src="https://user-images.githubusercontent.com/50009692/128605566-ec68363d-8483-4a2f-9edd-335008830fd1.PNG" height="100">　　<img src="https://user-images.githubusercontent.com/50009692/128605234-3df74dd0-df63-49bb-9f52-91b404bf617a.PNG" height="100">　　<img src="https://user-images.githubusercontent.com/50009692/128605513-1249e45e-9fdb-4af0-b8c1-c9a2fdac9c98.PNG" height="100">
-
-*** 
-## ⛏ Sub Stack
-<img src="https://user-images.githubusercontent.com/50009692/128605655-8c991409-7acf-4735-ad90-a2ade2c69f13.PNG" height="100">　　 <img src="https://user-images.githubusercontent.com/50009692/128605661-9f41a7fb-bc0a-4a92-a31b-cf1eafd95dfe.PNG" height="100">　　 <img src="https://user-images.githubusercontent.com/50009692/128605688-ba3db73f-dc3b-4f06-9b14-609098a2cc16.PNG" height="100">
+<div align=center><h3>🚀 Park Joon Soon - Backend Engineer 🚀</h3></div><br><br>
 
 
-***
-## 백준 문제풀이
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwnstns52)](https://solved.ac/qkrwnstns52)
+<div align=center><h3>👨‍💻 career 👨‍💻</h3></div>
+<div align=center>
+  <span>SP테크놀러지 인턴 (2021.06 ~ 2021.08)</span><br>
+  <span>한화시스템/ICT (2021.11 ~ )</span>
+</div><br><br>
+<div align=center><h3>📚 Main Stacks 📚</h3></div>
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/postgreSql-003545?style=for-the-badge&logo=postgreSql&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br>
+</div><br><br>
 
+<div align=center><h3>📗 Sub Stacks 📗</h3></div>
+<div align=center>
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+</div>
+
+<br><br><br>
+<div align=center><h3>🎖 Algorithm 🎖</h3></div>
+
+　　　　　　　　　　　　　　　　　　　　 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwnstns52)](https://solved.ac/qkrwnstns52)
