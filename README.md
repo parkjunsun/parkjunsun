@@ -1,11 +1,11 @@
-<div align=center><h3>🚀 Park Joon Soon - Backend Engineer 🚀</h3></div><br><br>
+<div align=center><h3>🚀 Park Joon Soon - Backend Engineer 🚀</h3></div><br>
 
 
 <div align=center><h3>👨‍💻 career 👨‍💻</h3></div>
 <div align=center>
   <span>SP테크놀러지 인턴 (2021.06 ~ 2021.08)</span><br>
   <span>한화시스템/ICT (2021.11 ~ )</span>
-</div><br><br>
+</div><br>
 <div align=center><h3>📚 Main Stacks 📚</h3></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
-</div><br><br>
+</div><br>
 
 <div align=center><h3>📗 Sub Stacks 📗</h3></div>
 <div align=center>
@@ -44,5 +44,4 @@
 
 <br><br><br>
 <div align=center><h3>🎖 Algorithm 🎖</h3></div>
-
-　　　　　　　　　　　　　　　　　　　　 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwnstns52)](https://solved.ac/qkrwnstns52)
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwnstns52">
