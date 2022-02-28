@@ -42,6 +42,6 @@
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </div>
 
-<br><br><br>
+<br>
 <div align=center><h3>🎖 Algorithm 🎖</h3></div>
 <div align=center><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwnstns52"></div>
