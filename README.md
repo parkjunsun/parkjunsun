@@ -6,7 +6,7 @@
   <span>SP테크놀러지 인턴 (2021.06 ~ 2021.08)</span><br>
   <span>한화시스템/ICT (2021.11 ~ )</span>
 </div><br>
-<div align=center><h3>📚 Main Stacks 📚</h3></div>
+<div align=center><h3>🛠 Main Stack 🛠</h3></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> 
@@ -36,7 +36,7 @@
   <br>
 </div><br>
 
-<div align=center><h3>📗 Sub Stacks 📗</h3></div>
+<div align=center><h3>⚒ Sub Stack ⚒</h3></div>
 <div align=center>
   <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white">
