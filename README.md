@@ -15,19 +15,9 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=flate&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white">
   <br>
-  
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
-  <br>
-  
+   
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/postgreSql-003545?style=flat&logo=postgreSql&logoColor=white"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   <br>
 </div><br>
 
@@ -36,8 +26,10 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
   <br>
   
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black"> 
